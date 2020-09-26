@@ -1,1 +1,19 @@
 
+Dropbox
+
+Dropbox este o aplicație de storage care îți permite să stochezi fișiere.Le vei avea mereu la îndemână, 
+le poți accesa de oriunde din lume și le poți partaja cu oricine cu un singur click.Acest lucru înseamnă ca această aplicație folosește tehnologia cloud.Deci, 
+Dropbox:
+-face back-up automat pe server: programul crează folderul Dropbox în care toate fişierele 
+sunt copiate şi sincronizate automat cu serverul Dropbox (atunci când există o conexiune de internet deschisă) 
+-sincronizeaza datele între mai multe calculatoare: dacă exista Dropbox instalat pe mai multe 
+calculatoare (de exemplu, un laptop şi un desktop) va sincroniza automat conţinutul directoarelor între ele
+-lucru colaborativ în foldere comune: partajarea conţinutul unui folder, fie invitând participanţi 
+(de pe site-ul Dropbox), fie acceptând invitaţiile altor participanţi. Spre deosebire de Googledocs, 
+Dropbox permite editarea colaborativă pe orice tip de fişiere, cu orice extensie
+
+-accesul la fișierele dincDropbox de pe orice calculator conectat la Internet, prin intermediul 
+site-ului Dropbox
+
+-publicarea pe Internet a fişerelor puse în subfolderul Public al Dropbox-ului: prin intermediul 
+se poate genera o adresă URL pentru fişerele din Dropbox/Public
